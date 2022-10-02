@@ -1,6 +1,8 @@
 # Code obtained from: https://github.com/brianamedee/Manim-Tutorials-2021/blob/main/1Tutorial_Intro.py
 # Learned from Brian Amedee: https://www.youtube.com/watch?v=jFqYq9quBds
 
+# This is a practice repo 
+
 from manim import *
 from numpy import cos
 
